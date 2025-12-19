@@ -40,7 +40,7 @@ double Interval::Center() const
 
 bool Interval::Contains(double x) const
 {
-    return lo <= x <= hi;
+    return (lo <= x) && (x <= hi);
 }
 
 double Interval::Normalize(double x, double oMin, double oMax) const
