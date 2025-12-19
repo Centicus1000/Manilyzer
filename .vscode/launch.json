@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run with Build Script",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build_exe/Manilyzer",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "externalConsole": false,
+            "preLaunchTask": "Build Project",
+        }
+    ]
+}

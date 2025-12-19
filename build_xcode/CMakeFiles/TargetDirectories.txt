@@ -1,0 +1,2 @@
+/Users/vincirist/Documents/Archive/Projekte/Code/Manilyzer/Manilyzer_v4/build_xcode/CMakeFiles/Manilyzer.dir
+/Users/vincirist/Documents/Archive/Projekte/Code/Manilyzer/Manilyzer_v4/build_xcode/CMakeFiles/ALL_BUILD.dir
