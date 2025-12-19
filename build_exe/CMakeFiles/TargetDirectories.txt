@@ -1,3 +1,0 @@
-/Users/vincirist/Documents/Archive/Projekte/Code/Manilyzer/Manilyzer_v4/build_exe/CMakeFiles/Manilyzer.dir
-/Users/vincirist/Documents/Archive/Projekte/Code/Manilyzer/Manilyzer_v4/build_exe/CMakeFiles/edit_cache.dir
-/Users/vincirist/Documents/Archive/Projekte/Code/Manilyzer/Manilyzer_v4/build_exe/CMakeFiles/rebuild_cache.dir
