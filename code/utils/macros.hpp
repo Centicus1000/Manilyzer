@@ -7,3 +7,5 @@
 #define MOD2PI(x)   (MOD(x,6.283185307179586232))
 #define Rad4Deg(x)  (PI * (x) / 180.)
 #define Deg4Rad(x)  (180. * (x) / PI)
+#define MIN(x,y)    (((x) > (y)) ? (y) : (x))
+#define MAX(x,y)    (((x) > (y)) ? (x) : (y))
