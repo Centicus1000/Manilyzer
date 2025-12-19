@@ -14,6 +14,18 @@ void EqualOrThrow(
     double b
 );
 
+
+void TrueOrThrow(
+    std::string const& message,
+    bool a
+);
+
+void FalseOrThrow(
+    std::string const& message,
+    bool a
+);
+
+
 /**
  * @brief Test functions that catch exceptions, and prints status updates
  * 

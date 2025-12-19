@@ -13,6 +13,22 @@ void EqualOrThrow(
         );
 }
 
+void TrueOrThrow(
+    std::string const& message,
+    bool a
+)
+{
+    if(!a) throw std::runtime_error(message + ": not true");
+}
+
+void FalseOrThrow(
+    std::string const& message,
+    bool a
+)
+{
+    if(a) throw std::runtime_error(message + ": not false");
+}
+
 void RunTest
 (
     std::string const& name,
