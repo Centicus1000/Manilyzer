@@ -1,4 +1,3 @@
-// test_Interval.cpp
 #include "utils/Interval.hpp"
 #include "test/test_utils.hpp"
 #include <cmath>
